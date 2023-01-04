@@ -1,0 +1,19 @@
+{
+    "window_type":"Windowed",
+    "resolution":[1, 1],   
+    
+    "master":1.0,
+    "characters":1.0,
+    "environment":1.0,
+    "music":1.0,
+    
+    "keybinds":[
+        ["Up","w"],
+        ["Down","s"],
+        ["Left","a"],
+        ["Right","d"],
+        ["Interact","f"],
+        ["CycleBackward","q"],
+        ["CycleForward","e"]
+    ]
+}
