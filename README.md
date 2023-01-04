@@ -1,6 +1,6 @@
-# GT Graduate Portfolio
+# CMAdams GT Graduate Portfolio
 
-	This portfolio represents my holistic output as a sound artist and designer, composer, producer, programmer, and project manager. All five of my portfolio items focus on a different element of my current work; Each item contains an abstract that describes the project, and the relevant files for that particular project. 
+This portfolio represents my holistic output as a sound artist and designer, composer, producer, programmer, and project manager. All five of my portfolio items focus on a different element of my current work; Each item contains an abstract that describes the project, and the relevant files for that particular project. 
   
 “I’m Tired of the World Ending” is a short album exploring sound as an object; all tracks were written and produced entirely by myself. Each track expands upon my own personal theory of sound, addressing the relationship between a sound's original context and contexts it may be put in through digital manipulation. The album is long, so if you are unable to allot time to listen to it in its entirety, I recommend listening to just tracks 2 and 3, Obelisks and Diogenes the Robot Tunes his Cosmic Snare Drum. The album demonstrates my capability as a sound artist, avant-garde composer, and producer. 
 
@@ -10,6 +10,6 @@
 
 “I Gave My Love a Riddle” is a solo piano piece written as a creative transcription of the American folk song, “The Riddle Song”; The piece was premiered by Julian Chan at the Royal Academy of Music, last November. The work itself explores my interests in folk music and the borrowing of things old in modern music. The work demonstrates my capability as a classical composer and my understanding of idiomatic writing for professional performers.
 
-	“Project Bones” is a technical demo for an adventure video game created by Undefined Studios demonstrating the capabilities of the Rust programming language and the Bevy game engine. The demo was created by myself and a small team of artists and designers that I led. I was the sole programmer for the project; the technical demo demonstrates my capability as a programmer and project manager. 
-  
-	“Pink Waters” is the audio portion of a multi-media art installation created in collaboration with the Berlin based visual artist Isabella Chydenius. The full installation featured at Backhaus Projects in Berlin, November 2022. The audio was created entirely by myself, and it demonstrates my capability as a collaborator and sound artist.
+“Project Bones” is a technical demo for an adventure video game created by Undefined Studios demonstrating the capabilities of the Rust programming language and the Bevy game engine. The demo was created by myself and a small team of artists and designers that I led. I was the sole programmer for the project; the technical demo demonstrates my capability as a programmer and project manager. 
+	
+“Pink Waters” is the audio portion of a multi-media art installation created in collaboration with the Berlin based visual artist Isabella Chydenius. The full installation featured at Backhaus Projects in Berlin, November 2022. The audio was created entirely by myself, and it demonstrates my capability as a collaborator and sound artist.
